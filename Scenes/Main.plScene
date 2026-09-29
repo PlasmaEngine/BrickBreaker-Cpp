@@ -1,0 +1,57 @@
+HeaderV2
+{
+  o
+  {
+    Uuid %id { u4 { 11917662226158476030, 13948940313378555610 } }
+    s %t { "plAssetDocumentInfo" }
+    u3 %v { 2 }
+    s %n { "Header" }
+    p
+    {
+      s %AssetType { "Scene" }
+      Uuid %DocumentID { u4 { 11917662226158476030, 13948940313378555610 } }
+      u4 %Hash{11992514213867798288}
+      VarArray %Dependencies {}
+      VarArray %MetaInfo {}
+      VarArray %Outputs {}
+      VarArray %PackageDeps {}
+      VarArray %References {}
+    }
+  }
+}
+Objects
+{
+  o
+  {
+    Uuid %id { u4 { 17631912852372224852, 17905466895003561123 } }
+    s %t { "plSceneDocumentRoot" }
+    u3 %v { 2 }
+    s %n { "ObjectTree" }
+    p
+    {
+      VarArray %Children {}
+      Uuid %Settings { u4 { 9476973055559117153, 15326492094054312898 } }
+    }
+  }
+  o
+  {
+    Uuid %id { u4 { 9476973055559117153, 15326492094054312898 } }
+    s %t { "plSceneDocumentSettings" }
+    u3 %v { 2 }
+    p
+    {
+      VarArray %Layers { Uuid { u4 { 11952663809885581828, 17189206864167183116 } } }
+    }
+  }
+  o
+  {
+    Uuid %id { u4 { 11952663809885581828, 17189206864167183116 } }
+    s %t { "plSceneLayer" }
+    u3 %v { 1 }
+    p
+    {
+      Uuid %Layer { u4 { 11917662226158476030, 13948940313378555610 } }
+    }
+  }
+}
+Types {}

@@ -1,0 +1,12 @@
+CppSource/Intermediate/
+CppSource/.vs/
+CppSource/*.slnx
+CppSource/*.code-workspace
+AssetCache/
+Editor/Preferences/
+Review.png
+plLauncher
+plDefaultAssertHandlerOutput.txt
+!README.md
+Plugins/
+RuntimeConfigs/*.plProfile

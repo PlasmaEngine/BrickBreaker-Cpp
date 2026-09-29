@@ -1,0 +1,15 @@
+PluginInfo
+{
+	bool %Mandatory{false}
+	string %DisplayName{"BrickBreaker"}
+	string %MinEngineVersion{"0.8.0"}
+	string %MaxEngineVersion{"0.8.0"}
+	string %Description{"C++ code for the BrickBreaker project."}
+	string %EditorPlugins{}
+	string %EditorEnginePlugins{}
+	string %RuntimePlugins{"BrickBreakerPlugin"}
+	string %PackageDependencies{}
+	string %RequiredPlugins{}
+	string %ExclusiveFeatures{"ProjectPlugin"}
+	string %EnabledInTemplates{}
+}
