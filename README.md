@@ -4,9 +4,9 @@ A playable 3D Brick Breaker with the same table, controls and rules as the Visua
 
 ## Requirements
 
-Windows, Plasma Engine 0.9.2, a C++ toolchain supported by PlasmaBuild (the Visual Studio C++ build tools), and `plasmabuild` on PATH. The Plasma Launcher's **Dependencies** page installs the last two.
+Windows, Plasma Engine 0.11.1, a C++ toolchain supported by PlasmaBuild (the Visual Studio C++ build tools), and `plasmabuild` on PATH. The Plasma Launcher's **Dependencies** page installs the last two.
 
-Get the project from the Plasma Launcher's **Samples** page (BrickBreaker, C++), or clone this repository and use **Add Existing Project**. The first time the editor opens it, it offers to install GameUI 1.2.1, which is listed in `Editor/Packages.ddl`. Accept, and it is installed into the project's `Plugins` folder, where the C++ build finds its headers and libraries.
+Get the project from the Plasma Launcher's **Samples** page (BrickBreaker, C++), or clone this repository and use **Add Existing Project**. The first time the editor opens it, it offers to install GameUI 1.4.0, which is listed in `Editor/Packages.ddl`. Accept, and it is installed into the project's `Plugins` folder, where the C++ build finds its headers and libraries.
 
 ## Build and play
 
