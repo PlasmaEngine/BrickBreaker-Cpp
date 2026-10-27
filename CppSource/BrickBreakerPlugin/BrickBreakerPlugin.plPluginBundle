@@ -2,8 +2,8 @@ PluginInfo
 {
 	bool %Mandatory{false}
 	string %DisplayName{"BrickBreaker"}
-	string %MinEngineVersion{"0.11.1"}
-	string %MaxEngineVersion{"0.11.1"}
+	string %MinEngineVersion{"0.11.2"}
+	string %MaxEngineVersion{"0.11.2"}
 	string %Description{"C++ code for the BrickBreaker project."}
 	string %EditorPlugins{}
 	string %EditorEnginePlugins{}

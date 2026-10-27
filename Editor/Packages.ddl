@@ -1,5 +1,5 @@
 Package
 {
   string %Id { "plasma.gameui" }
-  string %Version { "1.4.0" }
+  string %Version { "1.4.1" }
 }
