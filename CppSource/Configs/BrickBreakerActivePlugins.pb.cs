@@ -14,12 +14,12 @@ public static class BrickBreakerActivePlugins
 
     public static readonly string[] PackageRoots =
     {
-        "Plugins/plasma.gameui/1.2.1",
+        "Plugins/plasma.gameui/1.5.0",
     };
 
     public static readonly string[] PackagePluginRoots =
     {
-        "Plugins/plasma.gameui/1.2.1",
+        "Plugins/plasma.gameui/1.5.0",
     };
 
     public static readonly string[] PackagePlugins =
